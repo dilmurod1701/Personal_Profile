@@ -1,0 +1,15 @@
+#my_pic {
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+a {
+    font-size: 20px;
+}
